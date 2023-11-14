@@ -15,7 +15,7 @@ public class Example
 //int myVariable = 42;
 
 // Constants
-const int MAX_ITEMS = 100;
+//const int MAX_ITEMS = 100;
 
 // Namespace
 namespace MyApp.Services { }
